@@ -1,0 +1,3 @@
+Model;Resid. df;Resid. Dev;Test;   Df;LR stat.;Pr(Chi)
+NULL;20534;30571.05406;;NA;NA;NA
+FULL;20492;30515.44572;1 vs 2;42;55.60834149;0.077762167
